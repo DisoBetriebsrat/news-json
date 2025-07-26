@@ -1,0 +1,26 @@
+{
+  "banner": "🚩 Aktuelle Betriebsrat-News",
+  "news": [
+    {
+      "title": "Teaserüberschrift 1",
+      "preview": "Teasertext 1 in Kurzform.",
+      "author": "Max Mustermann",
+      "date": "25. Juli 2025",
+      "details": "Hier kommt der ganze Text rein."
+    },
+    {
+      "title": "Teaserüberschrift 2",
+      "preview": "Teasertext 2 in Kurzform.",
+      "author": "Lisa Beispiel",
+      "date": "22. Juli 2025",
+      "details": "Hier kommt der ganze Text rein."
+    },
+    {
+      "title": "Teaserüberschrift 3",
+      "preview": "Teasertext 3 in Kurzform.",
+      "author": "IT-Support",
+      "date": "20. Juli 2025",
+      "details": "Hier kommt der ganze Text rein."
+    }
+  ]
+}
